@@ -1,0 +1,9 @@
+# path of original files
+# ~/.config/i3/
+
+# ignore other i3blocks
+/i3block
+
+# ignore other i3blocks
+/i3config
+
