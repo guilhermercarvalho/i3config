@@ -1,0 +1,14 @@
+cotes necessários
+i3 i3lock feh xbacklight vim man nano less git python3 python3-pip python-pip 
+lxappearance arandr compton i3blocks	 
+
+
+# copiar /etc/X11/xorg.conf -> brilho
+# .config/gtk-3.0
+# baixar fonts para icones na barra de menu: https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts .ttf guardar na pasta .fonts
+# copiar icons https://fontawesome.com/cheatsheet
+# https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/ configurar i3lock
+# da una olhada https://github.com/bookercodes/dotfiles/tree/ubuntu/.i3
+# firefox arc theme https://github.com/horst3180/arc-firefox-theme
+# adicionar icons papirus theme arc in the system
+#

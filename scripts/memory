@@ -16,6 +16,10 @@
 
 TYPE="${BLOCK_INSTANCE:-mem}"
 
+case $BLOCK_BUTTON in
+  1) exec xfce4-taskmanager
+esac
+
 awk -v type=$TYPE '
 /^MemTotal:/ {
 	mem_total=$2
